@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Twitter / X",
+    "url": "https://x.com/sagartheamruth",
+    "description": "x.com/sagartheamruth",
+    "category": "social"
+  },
+  {
+    "label": "Instagram",
+    "url": "https://instagram.com/sagartheamruth",
+    "description": "instagram.com/sagartheamruth",
+    "category": "social"
+  },
+  {
+    "label": "Overpowered.ai",
+    "url": "https://instagram.com/overpowered.ai",
+    "description": "instagram.com/overpowered.ai",
+    "category": "project"
+  },
+  {
+    "label": "Email",
+    "url": "mailto:sagaramruth1212@gmail.com",
+    "description": "sagaramruth1212@gmail.com",
+    "category": "contact"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "Sagar Amruth",
+  "tagline": "vibemarketer and aura farmer for brands and creators",
+  "email": "sagaramruth1212@gmail.com",
+  "socialHandle": "@sagartheamruth",
+  "profileImage": "/images/profile.jpg",
+  "bio": [
+    "I'm a digital growth architect and AI content pioneer at the forefront of India's AI content revolution. I've built and scaled some of India's fastest-growing AI-powered channels, generating over 500 million views annually.",
+    "I was among the first in the world to build a fully automated AI news channel, using 20+ AI tools to create content at unprecedented scale. I've led campaigns for tech giants like Google, OpenAI, Intel, and NVIDIA."
+  ],
+  "stats": [
+    { "value": "100M+", "label": "monthly views" },
+    { "value": "300M+", "label": "total reach" },
+    { "value": "3M+", "label": "followers" }
+  ],
+  "socials": [
+    { "label": "x.com", "url": "https://x.com/sagartheamruth" },
+    { "label": "instagram", "url": "https://instagram.com/sagartheamruth" },
+    { "label": "email", "url": "mailto:sagaramruth1212@gmail.com" }
+  ],
+  "featuredImage": {
+    "src": "/images/nadella.jpg",
+    "alt": "Sagar Amruth with Satya Nadella, CEO of Microsoft",
+    "caption": "With Satya Nadella, CEO of Microsoft"
+  }
+}

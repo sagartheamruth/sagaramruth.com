@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Built the Biggest AI Avatar (Recognised by YouTube)",
+    "description": "Started experimenting with AI avatars in early 2023, before they became mainstream. The project now reaches 60–100M views monthly, making it one of the largest AI wrapper projects from India.",
+    "tags": ["ai avatars", "60-100M views/mo", "2023–present"]
+  },
+  {
+    "title": "Viral AI Campaigns w/ OpenAI",
+    "description": "Led viral AI campaigns in collaboration with OpenAI, producing content that reached millions — individual videos hitting 1.7M, 1.4M, and 1.1M views. The collaboration post garnered 40,000+ likes.",
+    "tags": ["openai", "viral content", "40K+ likes"]
+  },
+  {
+    "title": "Brand Campaigns — Google, NVIDIA, Intel, Adobe AI",
+    "description": "Created viral AI campaigns for major tech brands. The NVIDIA campaign alone hit 8.1M views. Worked across Google for India, Intel AI PCs, Adobe AI tools, and more.",
+    "tags": ["google", "nvidia", "intel", "adobe"]
+  },
+  {
+    "title": "Netflix-Level Documentary Using AI Tools",
+    "description": "Created a Netflix-quality documentary of the Indus Valley Report using AI tools — acclaimed by one of India's largest VCs. Went from zero video editing knowledge to producing this in just 3 weeks. 1M+ views on YouTube.",
+    "tags": ["documentary", "ai-produced", "1M+ views"]
+  },
+  {
+    "title": "Long-Form YouTube Content Producer & Management",
+    "description": "Produced and managed long-form YouTube content across multiple channels with hundreds of thousands of views per video. Topics span AI, startups, career advice, and deep dives on tech companies.",
+    "tags": ["youtube", "long-form", "content strategy"]
+  },
+  {
+    "title": "India's Most Intellectual AI Podcasts",
+    "description": "Produced podcast episodes featuring Sam Altman (CEO OpenAI), Satya Nadella (CEO Microsoft), Sundar Pichai (CEO Google), Mustafa Suleyman (CEO Microsoft AI), Ed McLaughlin (CTO Mastercard), Emad Mostaque (Stable Diffusion), and Shantanu Narayen (CEO Adobe).",
+    "tags": ["podcasts", "tech CEOs", "ai"]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:karpathy.ai)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --no-import-alias --use-npm)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(cp \"C:/Users/amrut/Downloads/profile.jpg\" \"C:/Users/amrut/Downloads/sagarweb/public/images/profile.jpg\")",
+      "Bash(cp \"C:/Users/amrut/Downloads/nadella.jpg.png\" \"C:/Users/amrut/Downloads/sagarweb/public/images/nadella.jpg\")",
+      "Bash(npm install:*)",
+      "Bash(gh auth:*)",
+      "Bash(where gh:*)",
+      "Bash(git config:*)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh --version)",
+      "Bash(gh repo:*)"
+    ]
+  }
+}
