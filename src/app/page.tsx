@@ -51,10 +51,10 @@ export default function Home() {
           </div>
         </div>
 
-        <ul className="mt-5 space-y-2.5 list-disc list-outside pl-4">
+        <ul className="mt-5 space-y-2.5 list-none pl-0">
           {site.bio.map((p, i) => (
             <li key={i} className="text-secondary text-[13px] leading-[1.75]">
-              {p}
+              <span className="mr-1.5">&gt;</span>{p}
             </li>
           ))}
         </ul>
