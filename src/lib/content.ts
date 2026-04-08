@@ -14,7 +14,9 @@ export interface SiteConfig {
   profileImage: string;
   bio: string[];
   stats: Array<{ value: string; label: string }>;
+  statsSubtitle?: string;
   socials: Array<{ label: string; url: string }>;
+  values: string[];
   featuredImage: { src: string; alt: string; caption: string };
 }
 
