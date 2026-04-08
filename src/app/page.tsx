@@ -61,7 +61,7 @@ export default function Home() {
       </section>
 
       {/* Stats */}
-      <StatBar stats={site.stats} />
+      <StatBar stats={site.stats} subtitle={site.statsSubtitle} />
 
       {/* Work */}
       <Section title="Work">
@@ -105,6 +105,19 @@ export default function Home() {
             isLast={i === testimonials.length - 1}
           />
         ))}
+      </Section>
+
+      <hr className="border-border" />
+
+      {/* Core Values */}
+      <Section title="Core Values">
+        <ul className="space-y-2.5 list-none pl-0">
+          {site.values.map((v, i) => (
+            <li key={i} className="text-secondary text-[13px] leading-[1.75] italic">
+              <span className="mr-1.5 not-italic">&gt;</span>{v}
+            </li>
+          ))}
+        </ul>
       </Section>
     </>
   );

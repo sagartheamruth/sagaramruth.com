@@ -1,13 +1,13 @@
 {
   "name": "Sagar Amruth",
-  "tagline": "vibemarketer and aura farmer for brands and creators",
+  "tagline": "vibemarketer and aura farmer for brands and creators living at the intersection of tech and media",
   "email": "sagaramruth1212@gmail.com",
   "socialHandle": "@sagartheamruth",
   "profileImage": "/images/profile.jpg",
   "bio": [
     "I produce cool AI content for a living. Been at it for about four years now, working closely with some of India's biggest AI creators.",
     "I'm just genuinely curious about AI. I run experiments, fail, try again, and somewhere in that loop the actual work gets done.",
-    "Helped build a fully automated AI news channel producing content at a scale that didn't really exist before. Recognised by Youtube at Davos WEF.",
+    "Built a fully automated AI news channel producing content at a scale that didn't really exist before. Recognised by Youtube at Davos WEF.",
     "That ended up getting the attention of companies like OpenAI, Intel, NVIDIA, Meta, and Microsoft. Now I run campaigns for them and a bunch of others."
   ],
   "stats": [
@@ -15,10 +15,27 @@
     { "value": "300M+", "label": "total reach" },
     { "value": "3M+", "label": "followers" }
   ],
+  "statsSubtitle": "for Varun Mayya (India's biggest AI creator) & Overpowered AI",
   "socials": [
     { "label": "x.com", "url": "https://x.com/sagartheamruth" },
     { "label": "instagram", "url": "https://instagram.com/sagartheamruth" },
     { "label": "email", "url": "mailto:sagaramruth1212@gmail.com" }
+  ],
+  "values": [
+    "kindness unlocks doors that smartness alone never will.",
+    "you can't think your way out of a courage deficit. the important thing is to take the next step.",
+    "your imagination is the bottleneck that limits the good you can create in the world.",
+    "be so prolific you don't recognize yourself.",
+    "who do you want to share this life with? everything else can be derived from that question.",
+    "don't chase prestige. just do what you love, and let prestige take care of itself.",
+    "the social reality you inherited is not the one you must inhabit for the rest of your life.",
+    "when someone changes your life, don't just say thank you. pass it on.",
+    "write stupid, edit smart. the frontier of dumb is where new smart things are born.",
+    "emptying your cup is about refusing to be in denial. let life surprise you.",
+    "be the person you wish you had in your life. that is the epiphany. for yourself. for others.",
+    "how do you expect others to believe in you when you don't believe in yourself?",
+    "no matter where you are in life, you always have more to learn and see.",
+    "see life with childlike wonder. believe in magic."
   ],
   "featuredImage": {
     "src": "/images/nadella.jpg",
