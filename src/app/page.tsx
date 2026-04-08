@@ -51,13 +51,13 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="mt-5 space-y-2.5">
+        <ul className="mt-5 space-y-2.5 list-disc list-outside pl-4">
           {site.bio.map((p, i) => (
-            <p key={i} className="text-secondary text-[13px] leading-[1.75]">
+            <li key={i} className="text-secondary text-[13px] leading-[1.75]">
               {p}
-            </p>
+            </li>
           ))}
-        </div>
+        </ul>
       </section>
 
       {/* Stats */}
