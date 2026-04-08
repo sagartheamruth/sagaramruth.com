@@ -5,8 +5,10 @@
   "socialHandle": "@sagartheamruth",
   "profileImage": "/images/profile.jpg",
   "bio": [
-    "I'm a digital growth architect and AI content pioneer at the forefront of India's AI content revolution. I've built and scaled some of India's fastest-growing AI-powered channels, generating over 500 million views annually.",
-    "I was among the first in the world to build a fully automated AI news channel, using 20+ AI tools to create content at unprecedented scale. I've led campaigns for tech giants like Google, OpenAI, Intel, and NVIDIA."
+    "I produce cool AI content for a living. Been at it for about four years now, working closely with some of India's biggest AI creators.",
+    "I'm just genuinely curious about AI. I run experiments, fail, try again, and somewhere in that loop the actual work gets done.",
+    "Helped build a fully automated AI news channel producing content at a scale that didn't really exist before. Recognised by Youtube at Davos WEF.",
+    "That ended up getting the attention of companies like OpenAI, Intel, NVIDIA, Meta, and Microsoft. Now I run campaigns for them and a bunch of others."
   ],
   "stats": [
     { "value": "100M+", "label": "monthly views" },
