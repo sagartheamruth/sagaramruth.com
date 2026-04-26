@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: "Sagar Amruth",
   description:
     "Vibemarketer and aura farmer for brands and creators.",
+  icons: {
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
+  },
 };
 
 export default function RootLayout({
